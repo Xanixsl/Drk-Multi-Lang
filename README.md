@@ -5,7 +5,8 @@
 [![Latest Version](https://img.shields.io/badge/Latest_Version-v1.0.0-512DA8?style=flat-square&logo=github)](https://github.com/Xanixsl/Drk-Multi-Lang/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 
-<img src="https://github.com/user-attachments/assets/0f139f68-0bd6-4068-b7e9-9480534085d2" alt="DRK Multi-Lang Screenshot" width="650"/>
+<img src="https://github.com/user-attachments/assets/12b54742-8218-4c28-9141-988566ce8dee" alt="DRK Multi-Lang Screenshot" width="650"/>
+
 
 [![Get Standard Version](https://img.shields.io/badge/Download-Standard_Russian_Version-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xanixsl/Russifier-Drk)
 ## 🚀 About the Program
@@ -153,7 +154,8 @@ While we strive for accuracy:
 
 ## 🛠 How It Works
 
-<img src="https://github.com/user-attachments/assets/56ab3c34-8fef-425c-881f-381c5d78617c" alt="DRK Multi-Lang Screenshot" width="650"/>
+<img src="https://github.com/user-attachments/assets/c0100d34-585f-4045-becd-0f94f0db7d38" alt="DRK Multi-Lang Screenshot" width="650"/>
+
 
 1. Locates mouse driver (`DeviceDriver.exe`)
 2. Finds language folder (`language`)
