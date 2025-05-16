@@ -1,8 +1,8 @@
 # DRK Multi-Lang - Multilingual Darmoshark Driver Translator
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FXanixsl%2FDrk-Multi-Lang&label=Visitors&icon=people-fill&color=%23c29ffa)
-[![Download Count](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FXanixsl%2FRussifier-Drk%2Freleases%2Flatest%2Fdownload%2FDRK.exe&label=Downloads&color=0078D7)](https://github.com/Xanixsl/Russifier-Drk/releases/latest/download/DRK.exe)
-[![Latest Version](https://img.shields.io/github/v/release/Xanixsl/Russifier-Drk?label=Latest%20Version&style=flat-square)](https://github.com/Xanixsl/Russifier-Drk/releases/latest)
+[![Download Count](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FXanixsl%2FDrk-Multi-Lang%2Freleases%2Flatest%2Fdownload%2FDrk-multi-lang.exe&label=Downloads&color=00b4ff)](https://github.com/Xanixsl/Drk-Multi-Lang/releases/latest/download/Drk-multi-lang.exe)
+[![Latest Version](https://img.shields.io/badge/Latest_Version-v1.0.0-512DA8?style=flat-square&logo=github)](https://github.com/Xanixsl/Drk-Multi-Lang/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 
 <img src="https://github.com/user-attachments/assets/0f139f68-0bd6-4068-b7e9-9480534085d2" alt="DRK Multi-Lang Screenshot" width="650"/>
