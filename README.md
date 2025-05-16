@@ -7,6 +7,7 @@
 
 <img src="https://github.com/user-attachments/assets/0f139f68-0bd6-4068-b7e9-9480534085d2" alt="DRK Multi-Lang Screenshot" width="650"/>
 
+[![Get Standard Version](https://img.shields.io/badge/Download-Standard_Russian_Version-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xanixsl/Russifier-Drk)
 ## 🚀 About the Program
 
 **DRK Multi-Lang** is an automatic translation tool for **Darmoshark** mouse drivers (models **M3, M3s, N3**) that supports 20+ languages.
