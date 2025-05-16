@@ -27,7 +27,7 @@ try:
 except ImportError:
     HAS_WINEXTRAS = False
 
-# Убираем проблемные настройки окружения
+
 os.environ.pop("QT_QUICK_BACKEND", None)
 os.environ.pop("QT_QPA_PLATFORM", None)
 os.environ.pop("QT_LOGGING_RULES", None)
@@ -489,8 +489,8 @@ class AboutDialog(QWidget):
         super().mouseReleaseEvent(event)
 
     def showEvent(self, event):
-        parent_widget = self.parentWidget()  # Получаем родительский виджет
-        if parent_widget:  # Проверяем, что он существуе
+        parent_widget = self.parentWidget()  
+        if parent_widget:  
             self.move(
                 parent_widget.x() + (parent_widget.width() - self.width()) // 2,
                 parent_widget.y() + (parent_widget.height() - self.height()) // 2
@@ -2041,7 +2041,7 @@ class ModernRusificatorApp(QWidget):
         
         control_card = GlassCard()
         control_layout = QHBoxLayout(control_card)
-        control_layout.setContentsMargins(15, 12, 15, 12)  # Увеличили отступы
+        control_layout.setContentsMargins(15, 12, 15, 12)  
         
         
         blur_layout = QHBoxLayout()
@@ -2187,7 +2187,7 @@ class ModernRusificatorApp(QWidget):
         """Handle language change"""
         self.current_language = self.language_combo.itemData(index)
         
-        # Update all UI elements
+        
         self.title_bar.title.setText("Drk multi lang v1.0")
         self.title_bar.about_btn.setText(self.translate("About"))
         self.status_label.setText(self.translate("Ready for translation"))
@@ -2195,7 +2195,7 @@ class ModernRusificatorApp(QWidget):
         self.rollback_button.setText(self.translate("Rollback Changes"))
         
     
-    # Обновляем метки "Language" и "Blur Intensity"
+    
         self.blur_label.setText(self.translate("Blur Intensity") + ":")
         self.lang_label.setText(self.translate("Language") + ":")
     
