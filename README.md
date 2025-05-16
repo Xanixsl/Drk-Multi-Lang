@@ -1,7 +1,7 @@
 # DRK Multi-Lang - Multilingual Darmoshark Driver Translator
 
+[![Download](https://img.shields.io/badge/Download-Drk_Multi_Lang-00b4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xanixsl/Drk-Multi-Lang/releases/latest/download/Drk-multi-lang.exe)
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FXanixsl%2FDrk-Multi-Lang&label=Visitors&icon=people-fill&color=%23c29ffa)
-[![Download Count](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FXanixsl%2FDrk-Multi-Lang%2Freleases%2Flatest%2Fdownload%2FDrk-multi-lang.exe&label=Downloads&color=00b4ff)](https://github.com/Xanixsl/Drk-Multi-Lang/releases/latest/download/Drk-multi-lang.exe)
 [![Latest Version](https://img.shields.io/badge/Latest_Version-v1.0.0-512DA8?style=flat-square&logo=github)](https://github.com/Xanixsl/Drk-Multi-Lang/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 
