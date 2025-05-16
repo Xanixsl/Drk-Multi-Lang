@@ -12,7 +12,7 @@
 **DRK Multi-Lang** is an automatic translation tool for **Darmoshark** mouse drivers (models **M3, M3s, N3**) that supports 20+ languages.
 
 🔗 **Official Website:** [https://russifier-drk.ru/](https://russifier-drk.ru/)  
-*(Note: The website currently has a standard version in Russian and English. Other languages are planned to be supported in the future)*
+*(Note: While this website supports both Russian and English languages, the program available for download here is the standard single-language version that only translates drivers to Russian.)*
 
 ## ✨ Key Features
 
@@ -25,13 +25,122 @@
 
 🔒 **Important:** The program does NOT collect or send your data! All files are stored strictly on your computer.
 
-## 🌍 Supported Languages
-English | Russian | Ukrainian | Belarusian | Kazakh | Polish | Czech | Slovak  
-Bulgarian | Serbian | Armenian | Georgian | Romanian | Latvian | Lithuanian  
-Estonian | Turkish | German | French | Spanish | and more...
+## 🌍 Supported Languages (100% Completed)
 
-⚠ **Translation Notice:**  
-I am not a native speaker of all these languages and cannot guarantee 100% translation accuracy. All translations were performed using translators and AI systems for better precision. Some minor text overlapping or truncation (like "Exam...") may occur in the mouse driver interface after translation.
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0; font-family: Arial, sans-serif;">
+  <tr style="background-color: #2a3042; color: white;">
+    <th style="padding: 10px; text-align: left;">Flag</th>
+    <th style="padding: 10px; text-align: left;">Language</th>
+    <th style="padding: 10px; text-align: left;">Status</th>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇷🇺</td>
+    <td style="padding: 10px;">Русский</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇬🇧</td>
+    <td style="padding: 10px;">English</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇺🇦</td>
+    <td style="padding: 10px;">Ukrainian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇧🇾</td>
+    <td style="padding: 10px;">Belarusian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇰🇿</td>
+    <td style="padding: 10px;">Kazakh</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇵🇱</td>
+    <td style="padding: 10px;">Polish</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇨🇿</td>
+    <td style="padding: 10px;">Czech</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇸🇰</td>
+    <td style="padding: 10px;">Slovak</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇧🇬</td>
+    <td style="padding: 10px;">Bulgarian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇷🇸</td>
+    <td style="padding: 10px;">Serbian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇦🇲</td>
+    <td style="padding: 10px;">Armenian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇬🇪</td>
+    <td style="padding: 10px;">Georgian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇷🇴</td>
+    <td style="padding: 10px;">Romanian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇱🇻</td>
+    <td style="padding: 10px;">Latvian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇱🇹</td>
+    <td style="padding: 10px;">Lithuanian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇪🇪</td>
+    <td style="padding: 10px;">Estonian</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇹🇷</td>
+    <td style="padding: 10px;">Turkish</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇩🇪</td>
+    <td style="padding: 10px;">German</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #f8f9fa;">
+    <td style="padding: 10px;">🇫🇷</td>
+    <td style="padding: 10px;">French</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px;">🇪🇸</td>
+    <td style="padding: 10px;">Spanish</td>
+    <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
+  </tr>
+</table>
+
+⚠ **Translation Notice**  
+While we strive for accuracy:  
+• I'm not a native speaker of all supported languages  
+• Translations utilize AI and professional tools  
+• Minor UI issues (text overlap, truncation) may occur  
+• Continuous improvements being made  
 
 ## 📥 Installation
 
