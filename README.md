@@ -147,8 +147,8 @@ While we strive for accuracy:
 ## 📥 Installation
 
 1. Download the latest version:
-   - [Download DRK_MultiLang.exe](https://github.com/Xanixsl/Russifier-Drk/releases/latest/download/DRK.exe)
-   - [All versions](https://github.com/Xanixsl/Russifier-Drk/releases)
+   - [Download DRK_MultiLang.exe](https://github.com/Xanixsl/Drk-Multi-Lang/releases/latest/download/Drk-multi-lang.exe)
+   - [All versions](https://github.com/Xanixsl/Drk-Multi-Lang/releases)
 
 2. Run as Administrator
 
