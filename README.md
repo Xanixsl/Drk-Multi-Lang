@@ -36,102 +36,102 @@
     <th style="padding: 10px; text-align: left;">Status</th>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇷🇺</td>
-    <td style="padding: 10px;">Русский</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/ru.png" width="20" alt="Russian"></td>
+    <td style="padding: 10px;">Russian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇬🇧</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/gb.png" width="20" alt="English"></td>
     <td style="padding: 10px;">English</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇺🇦</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/ua.png" width="20" alt="Ukrainian"></td>
     <td style="padding: 10px;">Ukrainian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇧🇾</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/by.png" width="20" alt="Belarusian"></td>
     <td style="padding: 10px;">Belarusian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇰🇿</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/kz.png" width="20" alt="Kazakh"></td>
     <td style="padding: 10px;">Kazakh</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇵🇱</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/pl.png" width="20" alt="Polish"></td>
     <td style="padding: 10px;">Polish</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇨🇿</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/cz.png" width="20" alt="Czech"></td>
     <td style="padding: 10px;">Czech</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇸🇰</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/sk.png" width="20" alt="Slovak"></td>
     <td style="padding: 10px;">Slovak</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇧🇬</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/bg.png" width="20" alt="Bulgarian"></td>
     <td style="padding: 10px;">Bulgarian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇷🇸</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/rs.png" width="20" alt="Serbian"></td>
     <td style="padding: 10px;">Serbian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇦🇲</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/am.png" width="20" alt="Armenian"></td>
     <td style="padding: 10px;">Armenian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇬🇪</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/ge.png" width="20" alt="Georgian"></td>
     <td style="padding: 10px;">Georgian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇷🇴</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/ro.png" width="20" alt="Romanian"></td>
     <td style="padding: 10px;">Romanian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇱🇻</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/lv.png" width="20" alt="Latvian"></td>
     <td style="padding: 10px;">Latvian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇱🇹</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/lt.png" width="20" alt="Lithuanian"></td>
     <td style="padding: 10px;">Lithuanian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇪🇪</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/ee.png" width="20" alt="Estonian"></td>
     <td style="padding: 10px;">Estonian</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇹🇷</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/tr.png" width="20" alt="Turkish"></td>
     <td style="padding: 10px;">Turkish</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇩🇪</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/de.png" width="20" alt="German"></td>
     <td style="padding: 10px;">German</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #f8f9fa;">
-    <td style="padding: 10px;">🇫🇷</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/fr.png" width="20" alt="French"></td>
     <td style="padding: 10px;">French</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
   <tr style="background-color: #ffffff;">
-    <td style="padding: 10px;">🇪🇸</td>
+    <td style="padding: 10px;"><img src="https://flagcdn.com/w40/es.png" width="20" alt="Spanish"></td>
     <td style="padding: 10px;">Spanish</td>
     <td style="padding: 10px;"><span style="background-color: #4CAF50; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">100%</span></td>
   </tr>
